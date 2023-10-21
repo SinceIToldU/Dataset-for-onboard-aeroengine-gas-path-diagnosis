@@ -1,6 +1,12 @@
 # Dataset-for-onboard-aeroengine-gas-path-diagnosis
 This repository contains the datasets involved in the paper titled "Towards domain shifts: Stream fine-tuning via feed-forward fault data generation for on-board aero-engine gas-path diagnosis".
 
+Download Link: https://cloud.189.cn/t/2MfmAjqEN3M3
+
+Password：kv4b
+
+Unzipped Password: xjtuftc
+
 ===================== Case Setting =====================
 
 Table 1 provides a summary of three simulated datasets. 
